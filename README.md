@@ -9,17 +9,22 @@
 ## 功能
 
 ### 稳压电源
-7812 LM317 功率电阻
+7805 功率电阻
+
+![5f1e05c8x78eebdb943b8 690](https://user-images.githubusercontent.com/28810680/30771095-26752c8c-a072-11e7-98c2-c070e1e08e6c.jpg)
+
 
 ### 温度和湿度的显示和控制
 温度显示：TMP36、MC14433、MC1413、MC1403
 温度控制：TMP36,9013,5V继电器
-
+湿度控制：sht1x
 ### 照明系统
 有感应开关控制，在光线不足的情况下便于选取衣物
 
 ### 电动系统
 [自动开启衣柜门](https://www.youtube.com/watch?v=EMrMpyZAIac)
-
-### 安全防范系统
+[基于51单片机的直流电机驱动（L298）](http://blog.sina.com.cn/s/blog_699f89720101f2om.html)
+[L298的详细资料驱动直流电机和步进电机](https://wenku.baidu.com/view/123f54ff770bf78a6529541a.html?re=view)
+[直流电动机的选型](https://wenku.baidu.com/view/6d73ac205901020207409cb6.html)
+### 安全防范系统9
 密码指纹
